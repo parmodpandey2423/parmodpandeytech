@@ -31,4 +31,5 @@
 ---
 
 ### 📫 Connect with Me
-- GitHub: https://github.com/your-username
+- www.linkedin.com/in/parmod-pandey
+- GMAILL: parmodpandeytech@gmail.com
